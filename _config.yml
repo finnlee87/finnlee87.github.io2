@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://finnlee87.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 在路上
+subtitle: "天下无难事，只要肯放弃"
+description: "路见不平，绕道而行"
+keywords: 架构, 技术, 技术分享
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: finnlee87/finnlee87.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Li Xuefeng
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: finnlee87
+location: Li Xuefeng, China
+email: xf@fengxueli.com
 
 # ---------------- #
 #    Navigation    #
@@ -120,17 +120,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: finnlee87
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 994f3953624291d26457
+        client_secret: 6d031741a52d29a7c1a7c2c9dd6a80ec2dac61ba
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: finnlee87
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 994f3953624291d26457
+    clientSecret: 6d031741a52d29a7c1a7c2c9dd6a80ec2dac61ba
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -146,10 +146,10 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
+# google:
+#     analytics_id: UA-80669434-1
+#     adsense:
+#         footer: true
+#         sidebar: true 
+#         content_header: true
+#         content_footer: false
